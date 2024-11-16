@@ -22,3 +22,6 @@ else:
     print(f'Valores inválidos, o programa agora irá fechar.')
     time.sleep(3)
     exit()
+
+
+# input()
