@@ -19,6 +19,6 @@ elif temperatura == 'F':
     print(f'Em Celsius, isso seria: {Fahrenheit:.2f}º')
     time.sleep(3)
 else:
-    print(f'Valores inválidos, tente novamente... Na verdade, vaza daqui')
+    print(f'Valores inválidos, o programa agora irá fechar')
     time.sleep(3)
     exit()
