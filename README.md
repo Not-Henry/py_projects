@@ -4,13 +4,13 @@ Bem-vindo ao meu repositório <strong>py_projects</strong>! Aqui você encontrar
 
 ## 🚀 <span style="color: #FFD43B;">Projetos em Destaque</span>
 
-- **<a href="https://github.com/seuusuario/projeto1" target="_blank" style="color: #306998;">Projeto 1</a>**: Descrição breve do projeto. Focado em resolver problema X utilizando abordagem Y.
-- **<a href="https://github.com/seuusuario/projeto2" target="_blank" style="color: #306998;">Projeto 2</a>**: Descrição breve do projeto. Projeto para automação de tarefas usando bibliotecas como `os` e `shutil`.
-- **<a href="https://github.com/seuusuario/projeto3" target="_blank" style="color: #306998;">Projeto 3</a>**: Descrição breve do projeto. Desenvolvimento de uma API RESTful com Flask.
-- **<a href="https://github.com/seuusuario/projeto3" target="_blank" style="color: #306998;">Projeto 3</a>**: Descrição breve do projeto. Desenvolvimento de uma API RESTful com Flask.
-- **<a href="https://github.com/seuusuario/projeto3" target="_blank" style="color: #306998;">Projeto 3</a>**: Descrição breve do projeto. Desenvolvimento de uma API RESTful com Flask.
-- **<a href="https://github.com/seuusuario/projeto3" target="_blank" style="color: #306998;">Projeto 3</a>**: Descrição breve do projeto. Desenvolvimento de uma API RESTful com Flask.
-- **<a href="https://github.com/seuusuario/projeto3" target="_blank" style="color: #306998;">Projeto 3</a>**: Descrição breve do projeto. Desenvolvimento de uma API RESTful com Flask.
+- **<a href="https://github.com/Not-Henry/py_projects/blob/main/Temperatura.py" target="_blank" style="color: #306998;">Conversor de temperatura</a>**: Converte temperaturas, de Celsius (°C) para Fahrenheit (°F) e vice-versa.
+- **<a href="https://github.com/Not-Henry/py_projects/blob/main/bhaskara.py" target="_blank" style="color: #306998;">Raízes de bhaskara</a>**: Calcula uma `equação quadrática` e retorna o valor de suas raízes (caso as raízes forem reais).
+- **<a href="https://github.com/Not-Henry/py_projects/blob/main/coh-piah.py" target="_blank" style="color: #306998;">"Coh-Piah"</a>**: Um detector de plágio, que trabalha utilizando a biblioteca `regular expression`.
+- **<a href="https://github.com/Not-Henry/py_projects/blob/main/cpf.py" target="_blank" style="color: #306998;">Validar CPF</a>**: Verifica se o CPF insirido é valido ou não, seguindo as leis atuais sobre validação de CPF.
+- **<a href="https://github.com/Not-Henry/py_projects/blob/main/redacao.py" target="_blank" style="color: #306998;">Redação automática</a>**: Cria uma redação, o usuário escolhe o que digitar e quanto tempo de descanço (ainda há problemas de acentuação).
+- **<a href="https://github.com/Not-Henry/py_projects/blob/main/senha.py" target="_blank" style="color: #306998;">Criador de senha</a>**: Cria uma senha, o usuário escolhe o tamanho da senha e quais caracteres utilizar (minúsculos, maiúsculas, números e especiais).
+- **<a href="https://github.com/Not-Henry/py_projects/blob/main/velha.py" target="_blank" style="color: #306998;">Jogo da velha</a>**: Jogo da velha, o usuário tem as opções de jogar contra outro ser humano ou computador (os movimentos do computador são escolhidos de maneira aleatória).
 
 ## 📜 <span style="color: #FFD43B;">Como Contribuir</span>
 
